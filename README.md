@@ -41,7 +41,7 @@ storage and monitoring services.
 - [Storage](infrastructure/storage.md)
 - [Jellyfin](services/jellyfin.md)
 - [Glance](services/glance.md)
-- [GPU Configuration](hardware/GPU_Configuration.md)
+- [GPU Configuration](hardware/GPUConfiguration.md)
 
 ## Architecture
 
