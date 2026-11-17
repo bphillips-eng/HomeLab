@@ -1,13 +1,26 @@
-| Computer 1 |
-Acer Nitro 5 (headless)
-16 x 12th Gen Intel(R) Core(TM) i7-12650H 
-16 GB DDR5 RAM
-NVIDIA GeForce RTX 4050 (6GB GDDR6)
+## 🖥️ Homelab Hardware
 
-| Computer 2 |
-AMD Ryzen 5 5600X CPU
-ASUS TUF Gaming B550-PLUS WiFi II motherboard
-16 GB DDR4 RAM
-NVIDIA RTX 4070 Ti-family GPU ( 12 GB 4070 Ti on Jumblenode3)
-NVIDIA GTX 1660 SUPER (planned secondary GPU but later removed for hardware issues)
-850 W PSU
+### Computer 1 — Acer Nitro 5 (Headless)
+
+| Component | Specification |
+|---|---|
+| Device | Acer Nitro 5 |
+| Operating Mode | Headless |
+| CPU | Intel Core i7-12650H (12th Gen, 16 Threads) |
+| RAM | 16 GB DDR5 |
+| GPU | NVIDIA GeForce RTX 4050 (6 GB GDDR6) |
+
+### Computer 2 — Custom Built Server
+
+| Component | Specification |
+|---|---|
+| CPU | AMD Ryzen 5 5600X |
+| Motherboard | ASUS TUF Gaming B550-PLUS WiFi II |
+| RAM | 16 GB DDR4 |
+| Primary GPU | NVIDIA RTX 4070 Ti-family (12 GB) |
+| GPU Host | Jumblenode3 |
+| Secondary GPU | NVIDIA GTX 1660 SUPER (Removed) |
+| PSU | 850 W |
+
+**Note:** The GTX 1660 SUPER was originally planned
+as a secondary GPU but was removed due to hardware issues.
