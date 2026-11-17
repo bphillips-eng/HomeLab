@@ -16,7 +16,7 @@
 |---|---|
 | CPU | AMD Ryzen 5 5600X |
 | Motherboard | ASUS TUF Gaming B550-PLUS WiFi II |
-| RAM | 16 GB DDR4 |
+| RAM | 32 GB DDR4 |
 | Primary GPU | NVIDIA RTX 4070 Ti-family (12 GB) |
 | GPU Host | Jumblenode3 |
 | Secondary GPU | NVIDIA GTX 1660 SUPER (Removed) |
