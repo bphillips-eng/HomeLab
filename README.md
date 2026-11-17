@@ -45,7 +45,7 @@ storage and monitoring services.
 
 ## Architecture
 
-![Homelab architecture](assets/diagrams/homelab.png)
+![Homelab architecture](/HomeLab.png)
 
 ## Future Plans
 
