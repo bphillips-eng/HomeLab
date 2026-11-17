@@ -39,7 +39,7 @@ storage and monitoring services.
 - [Hardware](hardware/ProxmoxNodes.md)
 - [Network](infrastructure/network.md)
 - [Storage](infrastructure/storage.md)
-- [Jellyfin](services/jellyfin.md)
+- [Jellyfin](services/JellyFin.md)
 - [Glance](services/glance.md)
 - [PiHole](services/PiHole.md)
 - [GPU Configuration](hardware/GPUConfiguration.md)
