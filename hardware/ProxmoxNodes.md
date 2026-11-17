@@ -20,6 +20,7 @@
 | Primary GPU | NVIDIA RTX 4070 Ti-family (12 GB) |
 | GPU Host | Jumblenode3 |
 | Secondary GPU | NVIDIA GTX 1660 SUPER (Removed) |
+| Storage | 6TB, 1tb, 3x 500gb |
 | PSU | 850 W |
 
 **Note:** The GTX 1660 SUPER was originally planned
