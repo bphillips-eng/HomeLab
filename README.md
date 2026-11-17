@@ -36,7 +36,7 @@ storage and monitoring services.
 
 ## Documentation
 
-- [Hardware](main/Hardware.md)
+- [Hardware](./Hardware.md)
 - [Network](infrastructure/network.md)
 - [Storage](infrastructure/storage.md)
 - [Jellyfin](services/jellyfin.md)
