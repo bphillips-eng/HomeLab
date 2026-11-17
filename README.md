@@ -36,7 +36,7 @@ storage and monitoring services.
 
 ## Documentation
 
-- [Hardware](./Hardware.md)
+- [Hardware](hardware/ProxmoxNodes.md)
 - [Network](infrastructure/network.md)
 - [Storage](infrastructure/storage.md)
 - [Jellyfin](services/jellyfin.md)
