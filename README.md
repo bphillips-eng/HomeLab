@@ -20,6 +20,7 @@ storage and monitoring services.
 | Media Server | Jellyfin |
 | Network DNS | Pi-hole |
 | Dashboard | Glance |
+| Password and Username Manager | Vaultwarden |
 | Storage | TrueNAS / SMB |
 | Downloads | Transmission |
 | Monitoring | Uptime Kuma / Speedtest Tracker |
